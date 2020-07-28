@@ -4,6 +4,7 @@ I am a self-taught software engineer who previously worked in IT as a business s
 - 🔭 I’m currently working on: React projects all day, every day (though starting to get into GraphQL)
 - 🌱 I’m currently learning: GraphQL, Python
 - 💬 Ask me about: JavaScript, React, teaching oneself how to code, music particularly classical music, baseball, drawing and pottery, learning languages (programming and otherwise)
-- 📫 How to reach me: Message me on LinkedIn: https://www.linkedin.com/in/lesleyhogg/
+- 📫 How to reach me: hi@lesleyhogg.com
+- :handshake: LinkedIn: https://www.linkedin.com/in/lesleyhogg/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two degrees in classical music performance on viola and still gig professionally (when there's not a global pandemic)
