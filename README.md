@@ -6,6 +6,6 @@ I am a self-taught software engineer who previously worked in IT as a business s
 - 💬 Ask me about: JavaScript, React, teaching oneself how to code, music particularly classical music, baseball, drawing and pottery, learning languages (programming and otherwise)
 - 📫 How to reach me: hi@lesleyhogg.com
 - :handshake: LinkedIn: https://www.linkedin.com/in/lesleyhogg/
-- :violin: Most recent musician bio: https://www.allsaintsallwelcome.org/lesley-hogg
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two degrees in classical music performance on viola and still gig professionally (when there's not a global pandemic)
+- :violin: Most recent musician bio: https://www.allsaintsallwelcome.org/lesley-hogg and a recent performance: https://www.youtube.com/watch?v=Y_mdJOusy28
