@@ -7,5 +7,6 @@ I am a self-taught software engineer who previously worked in IT as a business s
 - 📫 How to reach me: hi@lesleyhogg.com
 - :handshake: LinkedIn: https://www.linkedin.com/in/lesleyhogg/
 - 😄 Pronouns: she/her
+- :book: I'm currently reading: _Dune_ by Frank Herbert
 - ⚡ Fun fact: I have two degrees in classical music performance on viola and still gig professionally (when there's not a global pandemic)
 - :violin: Most recent musician bio: https://www.allsaintsallwelcome.org/lesley-hogg and a recent performance: https://www.youtube.com/watch?v=Y_mdJOusy28
