@@ -2,7 +2,7 @@
 I am a self-taught software engineer who previously worked in IT as a business systems analyst. In my day to day I work in the JavaScript universe (ES6+, React, Redux, Redux Sagas, Styled Components, Storybook, and libraries like Immutable.js, Lodash, and i18next), GraphQL + Apollo, SQL (MYSQL and PostgreSQL), and the bread and butter of HTML5 and CSS3. I also have professional experience with Ruby (Rails and Sinatra).
 
 - 🔭 I’m currently working on: React + GraphQL + Apollo projects at work
-- 🌱 I’m currently learning: Gatsby via Wes Bos's new Master Gatsby course
+- 🌱 I’m currently learning: Node via Wes Bos's Learn Node course
 - 💬 Ask me about: JavaScript, React, teaching oneself how to code, music particularly classical music, baseball, drawing and pottery, learning languages (programming and otherwise)
 - 📫 How to reach me: hi@lesleyhogg.com
 - :handshake: LinkedIn: https://www.linkedin.com/in/lesleyhogg/
